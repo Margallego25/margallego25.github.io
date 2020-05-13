@@ -1,6 +1,6 @@
 # página-web
 Página web profesional de María del Mar Gallego Vicente
-- Sobre mi
+- Sobre mí
 - Servicios
 - Portfolio
 - Contacto
